@@ -7,9 +7,9 @@ import { Markdown } from './markdown.js';
 import { ChatAPI, PROVIDERS } from './api.js';
 
 // Pre-configured API keys — set your keys in Settings or via environment
-const DEFAULT_GROQ_KEY = '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';
+const DEFAULT_GROQ_KEY = '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';
 // Gemini key is loaded from settings — configure in the Settings panel (⚙️)
-const DEFAULT_GEMINI_KEY = '';
+const DEFAULT_GEMINI_KEY = 'AQ.Ab8RN6INXdeTd4vvzzqcUHxYRIUihVcPMPIR4E_lygleR3z0dg';
 
 class App {
   constructor() {
